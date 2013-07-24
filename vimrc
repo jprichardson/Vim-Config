@@ -12,6 +12,7 @@ Bundle "MarcWeber/vim-addon-mw-utils"
 Bundle "tomtom/tlib_vim"
 Bundle "garbas/vim-snipmate"
 Bundle "honza/vim-snippets"
+Bundle "mattn/zencoding-vim"
 
 au FileType javascript set softtabstop=2 tabstop=2 shiftwidth=2
 au FileType html set softtabstop=2 tabstop=2 shiftwidth=2
