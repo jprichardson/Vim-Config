@@ -13,4 +13,8 @@ Bundle "tomtom/tlib_vim"
 Bundle "garbas/vim-snipmate"
 Bundle "honza/vim-snippets"
 
+au FileType javascript set softtabstop=2 tabstop=2 shiftwidth=2
+au FileType html set softtabstop=2 tabstop=2 shiftwidth=2
+au FileType css set softtabstop=2 tabstop=2 shiftwidth=2
+
 filetype plugin indent on
